@@ -62,11 +62,3 @@ Classifies IMDB movie reviews as positive or negative using a sequence-based LST
 
 🔗 File: `sentiment_classification_lstm.py`
 
----
-
-## 🔧 Requirements
-
-Install all required packages using:
-
-```bash
-pip install tensorflow numpy matplotlib seaborn scikit-learn
